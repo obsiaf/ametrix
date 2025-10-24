@@ -1,3 +1,11 @@
+#format_tiles_overlay {
+    background-color: rgba(51, 204, 255, 0.5);
+}
+
+.drawer {
+    background-color: #ffffbf;
+}
+
 .format-tiles .sectiontitle::after, .format-tiles.path-course-view-section .page-header-headings h1::after {
     background-color: #ffffbf;
 }
@@ -118,9 +126,7 @@ https://www.codeply.com/go/roydoXgaLr/bootstrap-4-flip-cards */
   padding: 50px 65px;
   text-align: center;
 }
-.card .content {
-  padding: 20px 20px 10px 20px;
-}
+
 .card[data-color="blue"] .category {
   color: #7a9e9f;
 }
@@ -234,6 +240,7 @@ a:hover, a:focus {
 .tag_cloud {
     text-align: center;
     background-color: #1f63de;
+    border-radius: 1em;
 }
 
 .tag_cloud a {
