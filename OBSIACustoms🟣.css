@@ -16,6 +16,10 @@
     font-family: Montserrat;
 }
 
+#region-main {
+    background-color: #f7f7f9;
+}
+
 #page.drawers .main-inner {
     background-color: #f7f7f9;
 }
