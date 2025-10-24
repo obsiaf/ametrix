@@ -1,5 +1,27 @@
+.format-tiles .course-content ul.tiles .tile.phototile .photo-tile-text h3 {
+    background-color: #1f63de !important;
+    height: auto !important;
+    font-size: 1.3em !important;
+    opacity: 0.9 !important;
+    color: white !important;
+}
+
+.format-tiles .progress-indic svg circle.partial {
+    stroke: #1f63de;
+ }
+
+.format-tiles .progress-indic svg text {
+    font-weight: 600;
+    fill: #1f63de;
+}
+
+.format-tiles .progress-indic .progress-indic-label {
+    color: #fefe85;
+}
+
 .format-tiles .course-content {
-    background: #1f63de;
+    font-family: Montserrat;
+    background: #ffffbf;
     padding: 2em;
     border-radius: 1em;
 }
@@ -195,7 +217,7 @@ a:hover, a:focus {
 
 .tag_cloud {
     text-align: center;
-    background-color: #343a40;
+    background-color: #1f63de;
 }
 
 .tag_cloud a {
