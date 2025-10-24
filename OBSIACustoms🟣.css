@@ -1,5 +1,18 @@
+.page-context-header .page-header-headings {
+    color: #1f63de;
+    font-family: Montserrat;
+}
+
+#page.drawers .main-inner {
+    background-color: #f7f7f9;
+}
+
+#page-wrapper #page {
+    background: #1f63de;
+}
+
 #format_tiles_overlay {
-    background-color: rgba(51, 204, 255, 0.5);
+    background-color: rgba(51, 204, 255, 0.5) !important;
 }
 
 .drawer {
