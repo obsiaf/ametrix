@@ -1,3 +1,19 @@
+.format-tiles .sectiontitle::after, .format-tiles.path-course-view-section .page-header-headings h1::after {
+    background-color: #ffffbf;
+}
+
+.format-tiles .sectiontitle h2 {
+    color: #fff;
+}
+
+.format-tiles .course-content ul li.section.main:not(.delegated-section) {
+    background-color: #1f63de;
+}
+
+.format-tiles .course-content ul.tiles .tile.tilestyle-2 {
+    border-top-color: #1f63de;
+}
+
 .format-tiles .course-content ul.tiles .tile.phototile .photo-tile-text h3 {
     background-color: #1f63de !important;
     height: auto !important;
